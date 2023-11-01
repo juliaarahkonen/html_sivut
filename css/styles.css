@@ -1,3 +1,22 @@
 h1 {
-  color: grey;
+  color: #333;
+  Max-width: 210mm;
+}
+
+P {
+  color: #555;
+  Max-width: 210mm;
+  Font-size: 16px;
+}
+
+body {
+  line-height: 1.5;
+  padding: 1em 1em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.kuva {
+  position: absolute;
+  Text-align: center;
+  padding: 4em 250mm;
 }
